@@ -3,3 +3,4 @@ Nesse repositório estou documentando meus projetos e estudos de machine learnin
 
 ## Projetos
 - [Previsão de notas escolares com Linear Regression](https://github.com/Arthurads-rj/machine-learning-portf-lio/blob/main/ML1_Notas_de_Alunos.ipynb)
+- [Previsão de classificação de carros com KNN](https://github.com/Arthurads-rj/machine-learning-portf-lio/blob/main/ML2_KNN.ipynb)
